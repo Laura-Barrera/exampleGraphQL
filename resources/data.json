@@ -1,0 +1,59 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "El alquimista",
+            "Author": {
+                "Name": "Paulo Coelho",
+                "Nationality": "Brasil"
+            },
+            "pages": 432,
+            "genre": "Novela",
+            "year": 1988
+        },
+        {
+            "id": 2,
+            "title": "Cien años de soledad",
+            "Author": {
+                "Name": "Gabriel García Márquez",
+                "Nationality": "Colombia"
+            },
+            "pages": 448,
+            "genre": "Novela",
+            "year": 1967
+        },
+        {
+            "id": 3,
+            "title": "El Señor de los Anillos: La Comunidad del Anillo",
+            "Author": {
+                "Name": "J.R.R. Tolkien",
+                "Nationality": "Inglaterra"
+            },
+            "pages": 432,
+            "genre": "Fantasía",
+            "year": 1954
+        },
+        {
+            "id": 4,
+            "title": "1984",
+            "Author": {
+                "Name": "George Orwell",
+                "Nationality": "Reino Unido"
+            },
+            "pages": 328,
+            "genre": "Distopía",
+            "year": 1949
+        },
+        {
+            "id": 5,
+            "title": "Matar un ruiseñor",
+            "Author": {
+                "Name": "Harper Lee",
+                "Nationality": "Estados Unidos"
+            },
+            "pages": 336,
+            "genre": "Novela",
+            "year": 1960
+        }
+    ]
+}

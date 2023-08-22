@@ -1,0 +1,7 @@
+GraphQL
+Peticiones al servidor por lenguaje de consultas a traves de peticiones al servidor
+
+Tipos de consultas
+- Traer datos -> Equivalente a get
+- Mutaciones cambio de datos en el servidor -> Equivalente a put, delete, post
+- Otras consultas
